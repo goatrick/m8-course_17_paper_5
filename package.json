@@ -2,10 +2,10 @@
   "name": "express-tasky-web-app-v1.0",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "dev": "sudo nodemon app.js",
-    "prod": "pm2 start app.js --name prash.icamp.in"
+    "prod": "pm2 start app.js --name my_domain"
   },
   "keywords": [],
   "author": "Prash",
